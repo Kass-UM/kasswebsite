@@ -1,0 +1,9 @@
+name: "kass-UM-website"
+navbar:
+  title: "Kass testing a github website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+output_dir: "."
