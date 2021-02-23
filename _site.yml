@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
     - text: "My Research"
       href: research.html
+    - text: "About Me"
+      href: about.html
 output_dir: "."
