@@ -3,8 +3,4 @@ title: "My Research"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ![A graphical abstract created by Cornell Undergraduate Zoe Kim t](Kass Graphic.png)

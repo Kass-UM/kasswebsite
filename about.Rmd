@@ -3,6 +3,8 @@ title: "About Me"
 output: html_document
 ---
 
-# Hi I'm Kass.
+# Hi, I'm Kass!
 
-## I'm just practicing making a website.
+I'm just practicing making a website.
+
+![I actually really want to stay on earth.](Mars_Virtual_Photo.png)
