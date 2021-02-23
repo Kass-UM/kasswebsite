@@ -9,6 +9,3 @@ navbar:
     - text: "My Research"
       href: research.html
 output_dir: "."
-output:
-  html_document:
-    highlight: textmate
