@@ -4,14 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "My Research"
-      href: research.html
     - text: "About Me"
       href: about.html
+    - text: "My Research"
+      href: research.html
 output_dir: "."
 output:
   html_document:
     theme: cerulean
     highlight: textmate
-    toc: true 
-    toc_float: true 
